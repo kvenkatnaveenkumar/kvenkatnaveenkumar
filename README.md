@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kvenkatnaveenkumar
-- 👀 I’m interested in Development 
-- 🌱 I’m currently learning  Dart and Flutter
-- 💞️ I’m looking to collaborate with Flutter Developers
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Google Cloud Platform.
 - 📫 How to reach me ... Whatsapp: 7799875357
 Follow me
 FaceBook :   https://www.facebook.com/kvenkatnaveenkumar
