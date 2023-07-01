@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kvenkatnaveenkumar
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Google Cloud Platform.
-- 📫 How to reach me ... Whatsapp: 7799875357
+- 🌱 Certified Associate Cloud Engineer
+GoGoo📫 How to reach me ... Whatsapp: 7799875357
 Follow me
 FaceBook :   https://www.facebook.com/kvenkatnaveenkumar
 Instagrram : https://www.instagram.com/k.venkat.naveen.kumar
