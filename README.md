@@ -6,7 +6,7 @@ I’m passionate about Development, Data Engineering, and exploring cutting-edge
 
 🌱 Certifications:
 
-Google Certified Associate Cloud Engineer
+Google Certified Professional Data Engineer
 
 
 📫 Contact me:
@@ -29,4 +29,4 @@ Twitter: @kvnk1999
 
 💼 Employment
 
-Currently employed as an Associate Consultant at Infosys, leveraging my expertise in cloud technologies, data engineering, and development.
+Currently employed as a Senior Associate Consultant at Infosys, leveraging my expertise in cloud technologies, data engineering, and development.
